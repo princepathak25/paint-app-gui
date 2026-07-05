@@ -13,14 +13,13 @@ An interactive paint application built using Python's Tkinter. Features smooth d
 - Live color picker with real-time preview
 - Smooth mouse-drag drawing
 - One-click Clear Canvas
-- Dark mode + Emoji-enhanced interface
 
 ---
 
 ## Tech Stack
 
 - Python 3.10+
-- Tkinter (Standard GUI Library)
+- Tkinter
   
 ---
 
@@ -35,8 +34,8 @@ An interactive paint application built using Python's Tkinter. Features smooth d
 2. Navigate and run:
 
    ```bash
-   cd paint-gui-prince
-   python paint.py
+   cd paint app gui
+   python paint-app-gui.py
    ```
 
 ---
@@ -45,7 +44,7 @@ An interactive paint application built using Python's Tkinter. Features smooth d
 
 ```bash
 paint-app-gui/
-├── paint.py
+├── paint-app-gui.py
 └── README.md
 └── .gitignore
 ```
