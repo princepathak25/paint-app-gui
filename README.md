@@ -28,13 +28,12 @@ An interactive paint application built using Python's Tkinter. Features smooth d
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/princepathak25/paint-gui-prince.git
+   git clone https://github.com/princepathak25/paint-app-gui.git
    ```
 
 2. Navigate and run:
 
    ```bash
-   cd paint app gui
    python paint-app-gui.py
    ```
 
