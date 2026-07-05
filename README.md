@@ -54,8 +54,8 @@ paint-app-gui-prince/
 
 ## Connect with Me
 
-- **GitHub:** https://github.com/yourusername
-- **LinkedIn:** https://linkedin.com/in/yourprofile
+- **GitHub:** https://github.com/princepathak25
+- **LinkedIn:** https://linkedin.com/in/prince-pathak-142651373
 
 ---
 
