@@ -44,7 +44,7 @@ An interactive paint application built using Python's Tkinter. Features smooth d
 ## Project Structure
 
 ```bash
-paint-app-gui-prince/
+paint-app-gui/
 ├── paint.py
 └── README.md
 └── .gitignore
