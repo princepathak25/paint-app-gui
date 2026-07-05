@@ -1,6 +1,9 @@
 # Paint GUI App
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-An interactive paint application built using Python's Tkinter. Features smooth drawing, slider-controlled brush size, and a vibrant color picker — all wrapped in an aesthetic dark UI.
+
+An interactive paint application built using Python's Tkinter. Features smooth drawing, slider-controlled brush size, and a vibrant color picker.
 
 ---
 
@@ -12,6 +15,13 @@ An interactive paint application built using Python's Tkinter. Features smooth d
 - One-click Clear Canvas
 - Dark mode + Emoji-enhanced interface
 
+---
+
+## Tech Stack
+
+- Python 3.10+
+- Tkinter (Standard GUI Library)
+  
 ---
 
 ## How to Run
@@ -34,20 +44,21 @@ An interactive paint application built using Python's Tkinter. Features smooth d
 ## Project Structure
 
 ```bash
-paint-gui-prince/
+paint-app-gui-prince/
 ├── paint.py
 └── README.md
+└── .gitignore
 ```
 
 ---
 
-## Tech Used
+## Connect with Me
 
-- Python 3.10+
-- Tkinter (Standard GUI Library)
-- Emojis for enhanced UI
-- No external dependencies
+- **GitHub:** https://github.com/yourusername
+- **LinkedIn:** https://linkedin.com/in/yourprofile
 
 ---
 
-## Made by [Prince Pathak]
+### Author
+
+**Prince Pathak**
