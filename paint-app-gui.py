@@ -71,5 +71,3 @@ tk.Button(
 ).pack(side="left", padx=20)
 
 root.mainloop()
-
-# 🖌️ Enjoy painting with Prince's Beautiful Paint App! 🎉
