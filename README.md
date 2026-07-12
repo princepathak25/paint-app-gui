@@ -3,7 +3,7 @@
 ![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
-An interactive paint application built using Python's Tkinter. Features smooth drawing, slider-controlled brush size, and a vibrant color picker.
+An interactive paint application to paint your imaginations. Features smooth drawing, slider-controlled brush size, and a vibrant color picker.
 
 ---
 
